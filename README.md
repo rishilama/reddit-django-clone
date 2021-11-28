@@ -1,1 +1,6 @@
-# reddit-django-clone
+# reddit-django-clone![1](https://user-images.githubusercontent.com/84171796/143723993-92466328-db5f-4eec-993a-ab6d4bc05b7d.JPG)
+![2](https://user-images.githubusercontent.com/84171796/143723996-e368e19f-ecda-4d4b-96f9-180854cdf5f3.JPG)
+![3](https://user-images.githubusercontent.com/84171796/143723997-175e6fa1-dfea-4035-9adc-05a0950399bd.JPG)
+![4](https://user-images.githubusercontent.com/84171796/143723998-f13931d3-64b1-464c-838f-91ce49c3f758.JPG)
+![5](https://user-images.githubusercontent.com/84171796/143723999-9b446ba4-403c-4502-89e5-34a9cd7eb43f.JPG)
+![6](https://user-images.githubusercontent.com/84171796/143724000-390b84c1-ed6f-4243-9a67-c17eb0cbf4e6.JPG)
